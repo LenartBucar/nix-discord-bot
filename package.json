@@ -33,12 +33,6 @@
     "gulp-nsp": "^2.1.0",
     "gulp-plumber": "^1.0.0"
   },
-  "eslintConfig": {
-    "extends": "xo-space",
-    "env": {
-      "mocha": true
-    }
-  },
   "repository": "https://github.com/SpyMaster356/nix-discord-bot",
   "license": "MIT",
   "dependencies": {
